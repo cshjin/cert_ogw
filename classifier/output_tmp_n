@@ -1,0 +1,720 @@
+==================== BZR sp gw normalize
+dataset: BZR topo_metric: sp dist_func: gw
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+test mean 0.7876543209876543
+test std 0.00493827160493825
+==============================
+==================== BZR sp gw_lb normalize
+dataset: BZR topo_metric: sp dist_func: gw_lb
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+test mean 0.7876543209876543
+test std 0.00493827160493825
+==============================
+==================== BZR sp gwtil_lb normalize
+dataset: BZR topo_metric: sp dist_func: gwtil_lb
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+test mean 0.7876543209876543
+test std 0.00493827160493825
+==============================
+==================== BZR sp gwtil_ub normalize
+dataset: BZR topo_metric: sp dist_func: gwtil_ub
+best params {'C': 1.0, 'gamma': 19.504218467271617}
+test mean 0.7901234567901234
+test std 0.007808092988070072
+==============================
+==================== BZR sp gwtil_lb_q1 normalize
+dataset: BZR topo_metric: sp dist_func: gwtil_lb_q1
+best params {'C': 1.0, 'gamma': 52.501462784488865}
+test mean 0.7901234567901234
+test std 0.0
+==============================
+==================== BZR ct gw normalize
+dataset: BZR topo_metric: ct dist_func: gw
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+test mean 0.7876543209876543
+test std 0.00493827160493825
+==============================
+==================== BZR ct gw_lb normalize
+dataset: BZR topo_metric: ct dist_func: gw_lb
+best params {'C': 51.79474679231202, 'gamma': 0.0009765625}
+test mean 0.7925925925925925
+test std 0.012096245643373705
+==============================
+==================== BZR ct gwtil_lb normalize
+dataset: BZR topo_metric: ct dist_func: gwtil_lb
+best params {'C': 51.79474679231202, 'gamma': 0.0009765625}
+test mean 0.7925925925925925
+test std 0.012096245643373705
+==============================
+==================== BZR ct gwtil_ub normalize
+dataset: BZR topo_metric: ct dist_func: gwtil_ub
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+test mean 0.7876543209876543
+test std 0.00493827160493825
+==============================
+==================== BZR ct gwtil_lb_q1 normalize
+dataset: BZR topo_metric: ct dist_func: gwtil_lb_q1
+best params {'C': 3.727593720314938, 'gamma': 141.32345775024794}
+test mean 0.8074074074074072
+test std 0.028794824172075555
+==============================
+==================== BZR cttil gw normalize
+dataset: BZR topo_metric: cttil dist_func: gw
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+test mean 0.7876543209876543
+test std 0.00493827160493825
+==============================
+==================== BZR cttil gw_lb normalize
+dataset: BZR topo_metric: cttil dist_func: gw_lb
+best params {'C': 51.79474679231202, 'gamma': 0.0009765625}
+test mean 0.7925925925925925
+test std 0.012096245643373705
+==============================
+==================== BZR cttil gwtil_lb normalize
+dataset: BZR topo_metric: cttil dist_func: gwtil_lb
+best params {'C': 51.79474679231202, 'gamma': 0.0009765625}
+test mean 0.7925925925925925
+test std 0.012096245643373705
+==============================
+==================== BZR cttil gwtil_ub normalize
+dataset: BZR topo_metric: cttil dist_func: gwtil_ub
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+test mean 0.7876543209876543
+test std 0.00493827160493825
+==============================
+==================== BZR cttil gwtil_lb_q1 normalize
+dataset: BZR topo_metric: cttil dist_func: gwtil_lb_q1
+best params {'C': 3.727593720314938, 'gamma': 380.4145380190592}
+test mean 0.7950617283950617
+test std 0.024192491286747435
+==============================
+==================== COX2 sp gw normalize
+dataset: COX2 topo_metric: sp dist_func: gw
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+test mean 0.7816060398078243
+test std 0.004090888840612498
+==============================
+==================== COX2 sp gw_lb normalize
+dataset: COX2 topo_metric: sp dist_func: gw_lb
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+test mean 0.7816060398078243
+test std 0.004090888840612498
+==============================
+==================== COX2 sp gwtil_lb normalize
+dataset: COX2 topo_metric: sp dist_func: gwtil_lb
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+test mean 0.7816060398078243
+test std 0.004090888840612498
+==============================
+==================== COX2 sp gwtil_ub normalize
+dataset: COX2 topo_metric: sp dist_func: gwtil_ub
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+test mean 0.7816060398078243
+test std 0.004090888840612498
+==============================
+==================== COX2 sp gwtil_lb_q1 normalize
+dataset: COX2 topo_metric: sp dist_func: gwtil_lb_q1
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+test mean 0.7816060398078243
+test std 0.004090888840612498
+==============================
+==================== COX2 ct gw normalize
+dataset: COX2 topo_metric: ct dist_func: gw
+best params {'C': 3.727593720314938, 'gamma': 0.0009765625}
+test mean 0.7880576527110501
+test std 0.015044198903189481
+==============================
+==================== COX2 ct gw_lb normalize
+dataset: COX2 topo_metric: ct dist_func: gw_lb
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+test mean 0.7816060398078243
+test std 0.004090888840612498
+==============================
+==================== COX2 ct gwtil_lb normalize
+dataset: COX2 topo_metric: ct dist_func: gwtil_lb
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+test mean 0.7816060398078243
+test std 0.004090888840612498
+==============================
+==================== COX2 ct gwtil_ub normalize
+dataset: COX2 topo_metric: ct dist_func: gwtil_ub
+best params {'C': 3.727593720314938, 'gamma': 2.6918003852647128}
+test mean 0.7837565774422328
+test std 0.007042801829836294
+==============================
+==================== COX2 ct gwtil_lb_q1 normalize
+dataset: COX2 topo_metric: ct dist_func: gwtil_lb_q1
+best params {'C': 3.727593720314938, 'gamma': 0.0009765625}
+test mean 0.7859071150766415
+test std 0.010930015583635044
+==============================
+==================== COX2 cttil gw normalize
+dataset: COX2 topo_metric: cttil dist_func: gw
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+test mean 0.7816060398078243
+test std 0.004090888840612498
+==============================
+==================== COX2 cttil gw_lb normalize
+dataset: COX2 topo_metric: cttil dist_func: gw_lb
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+test mean 0.7816060398078243
+test std 0.004090888840612498
+==============================
+==================== COX2 cttil gwtil_lb normalize
+dataset: COX2 topo_metric: cttil dist_func: gwtil_lb
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+test mean 0.7816060398078243
+test std 0.004090888840612498
+==============================
+==================== COX2 cttil gwtil_ub normalize
+dataset: COX2 topo_metric: cttil dist_func: gwtil_ub
+best params {'C': 3.727593720314938, 'gamma': 2.6918003852647128}
+test mean 0.7837565774422328
+test std 0.007042801829836294
+==============================
+==================== COX2 cttil gwtil_lb_q1 normalize
+dataset: COX2 topo_metric: cttil dist_func: gwtil_lb_q1
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+test mean 0.7816060398078243
+test std 0.004090888840612498
+==============================
+==================== MUTAG sp gw normalize
+dataset: MUTAG topo_metric: sp dist_func: gw
+best params {'C': 3.727593720314938, 'gamma': 0.002628711313735071}
+test mean 0.6695590327169274
+test std 0.08231646024755851
+==============================
+==================== MUTAG sp gw_lb normalize
+dataset: MUTAG topo_metric: sp dist_func: gw_lb
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+test mean 0.6650071123755333
+test std 0.008710845457977132
+==============================
+==================== MUTAG sp gwtil_lb normalize
+dataset: MUTAG topo_metric: sp dist_func: gwtil_lb
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+test mean 0.6650071123755333
+test std 0.008710845457977132
+==============================
+==================== MUTAG sp gwtil_ub normalize
+dataset: MUTAG topo_metric: sp dist_func: gwtil_ub
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+test mean 0.6650071123755333
+test std 0.008710845457977132
+==============================
+==================== MUTAG sp gwtil_lb_q1 normalize
+dataset: MUTAG topo_metric: sp dist_func: gwtil_lb_q1
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+test mean 0.6650071123755333
+test std 0.008710845457977132
+==============================
+==================== MUTAG ct gw normalize
+dataset: MUTAG topo_metric: ct dist_func: gw
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+test mean 0.6650071123755333
+test std 0.008710845457977132
+==============================
+==================== MUTAG ct gw_lb normalize
+dataset: MUTAG topo_metric: ct dist_func: gw_lb
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+test mean 0.6650071123755333
+test std 0.008710845457977132
+==============================
+==================== MUTAG ct gwtil_lb normalize
+dataset: MUTAG topo_metric: ct dist_func: gwtil_lb
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+test mean 0.6650071123755333
+test std 0.008710845457977132
+==============================
+==================== MUTAG ct gwtil_ub normalize
+dataset: MUTAG topo_metric: ct dist_func: gwtil_ub
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+test mean 0.6650071123755333
+test std 0.008710845457977132
+==============================
+==================== MUTAG ct gwtil_lb_q1 normalize
+dataset: MUTAG topo_metric: ct dist_func: gwtil_lb_q1
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+test mean 0.6650071123755333
+test std 0.008710845457977132
+==============================
+==================== MUTAG cttil gw normalize
+dataset: MUTAG topo_metric: cttil dist_func: gw
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+test mean 0.6650071123755333
+test std 0.008710845457977132
+==============================
+==================== MUTAG cttil gw_lb normalize
+dataset: MUTAG topo_metric: cttil dist_func: gw_lb
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+test mean 0.6650071123755333
+test std 0.008710845457977132
+==============================
+==================== MUTAG cttil gwtil_lb normalize
+dataset: MUTAG topo_metric: cttil dist_func: gwtil_lb
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+test mean 0.6650071123755333
+test std 0.008710845457977132
+==============================
+==================== MUTAG cttil gwtil_ub normalize
+dataset: MUTAG topo_metric: cttil dist_func: gwtil_ub
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+test mean 0.6650071123755333
+test std 0.008710845457977132
+==============================
+==================== MUTAG cttil gwtil_lb_q1 normalize
+dataset: MUTAG topo_metric: cttil dist_func: gwtil_lb_q1
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+test mean 0.6650071123755333
+test std 0.008710845457977132
+==============================
+==================== PTC_MR sp gw normalize
+dataset: PTC_MR topo_metric: sp dist_func: gw
+best params {'C': 1.0, 'gamma': 0.019047088346944928}
+test mean 0.5667519181585678
+test std 0.044456507383412815
+==============================
+==================== PTC_MR sp gw_lb normalize
+dataset: PTC_MR topo_metric: sp dist_func: gw_lb
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+test mean 0.5581415174765558
+test std 0.006490320992557279
+==============================
+==================== PTC_MR sp gwtil_lb normalize
+dataset: PTC_MR topo_metric: sp dist_func: gwtil_lb
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+test mean 0.5581415174765558
+test std 0.006490320992557279
+==============================
+==================== PTC_MR sp gwtil_ub normalize
+dataset: PTC_MR topo_metric: sp dist_func: gwtil_ub
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+test mean 0.5581415174765558
+test std 0.006490320992557279
+==============================
+==================== PTC_MR sp gwtil_lb_q1 normalize
+dataset: PTC_MR topo_metric: sp dist_func: gwtil_lb_q1
+best params {'C': 1.0, 'gamma': 0.1380111892092266}
+test mean 0.5609974424552429
+test std 0.012459848963339093
+==============================
+==================== PTC_MR ct gw normalize
+dataset: PTC_MR topo_metric: ct dist_func: gw
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+test mean 0.5581415174765558
+test std 0.006490320992557279
+==============================
+==================== PTC_MR ct gw_lb normalize
+dataset: PTC_MR topo_metric: ct dist_func: gw_lb
+best params {'C': 1.0, 'gamma': 0.1380111892092266}
+test mean 0.5726342710997441
+test std 0.0329754710205344
+==============================
+==================== PTC_MR ct gwtil_lb normalize
+dataset: PTC_MR topo_metric: ct dist_func: gwtil_lb
+best params {'C': 1.0, 'gamma': 0.05127095975047737}
+test mean 0.5784313725490196
+test std 0.044451929665500926
+==============================
+==================== PTC_MR ct gwtil_ub normalize
+dataset: PTC_MR topo_metric: ct dist_func: gwtil_ub
+best params {'C': 0.2682695795279725, 'gamma': 52.501462784488865}
+test mean 0.5639386189258312
+test std 0.016080700366686667
+==============================
+==================== PTC_MR ct gwtil_lb_q1 normalize
+dataset: PTC_MR topo_metric: ct dist_func: gwtil_lb_q1
+best params {'C': 1.0, 'gamma': 0.1380111892092266}
+test mean 0.5668797953964194
+test std 0.01622042658379471
+==============================
+==================== PTC_MR cttil gw normalize
+dataset: PTC_MR topo_metric: cttil dist_func: gw
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+test mean 0.5581415174765558
+test std 0.006490320992557279
+==============================
+==================== PTC_MR cttil gw_lb normalize
+dataset: PTC_MR topo_metric: cttil dist_func: gw_lb
+best params {'C': 1.0, 'gamma': 0.1380111892092266}
+test mean 0.5726342710997441
+test std 0.0329754710205344
+==============================
+==================== PTC_MR cttil gwtil_lb normalize
+dataset: PTC_MR topo_metric: cttil dist_func: gwtil_lb
+best params {'C': 1.0, 'gamma': 0.05127095975047737}
+test mean 0.5784313725490196
+test std 0.044451929665500926
+==============================
+==================== PTC_MR cttil gwtil_ub normalize
+dataset: PTC_MR topo_metric: cttil dist_func: gwtil_ub
+best params {'C': 0.2682695795279725, 'gamma': 52.501462784488865}
+test mean 0.5639386189258312
+test std 0.016080700366686667
+==============================
+==================== PTC_MR cttil gwtil_lb_q1 normalize
+dataset: PTC_MR topo_metric: cttil dist_func: gwtil_lb_q1
+best params {'C': 1.0, 'gamma': 0.05127095975047737}
+test mean 0.5609974424552429
+test std 0.01797998226515183
+==============================
+==================== IMDB-BINARY sp gw normalize
+dataset: IMDB-BINARY topo_metric: sp dist_func: gw
+best params {'C': 10000.0, 'gamma': 141.32345775024794}
+test mean 0.5309999999999999
+test std 0.05003998401278723
+==============================
+==================== IMDB-BINARY sp gw_lb normalize
+dataset: IMDB-BINARY topo_metric: sp dist_func: gw_lb
+best params {'C': 0.0001, 'gamma': 1024.0}
+test mean 0.5029999999999999
+test std 0.0040000000000000036
+==============================
+==================== IMDB-BINARY sp gwtil_lb normalize
+dataset: IMDB-BINARY topo_metric: sp dist_func: gwtil_lb
+best params {'C': 193.06977288832496, 'gamma': 380.4145380190592}
+test mean 0.509
+test std 0.027820855486487113
+==============================
+==================== IMDB-BINARY sp gwtil_ub normalize
+dataset: IMDB-BINARY topo_metric: sp dist_func: gwtil_ub
+best params {'C': 51.79474679231202, 'gamma': 141.32345775024794}
+test mean 0.517
+test std 0.03443835071544512
+==============================
+==================== IMDB-BINARY sp gwtil_lb_q1 normalize
+dataset: IMDB-BINARY topo_metric: sp dist_func: gwtil_lb_q1
+best params {'C': 719.6856730011514, 'gamma': 0.1380111892092266}
+test mean 0.5579999999999999
+test std 0.02039607805437111
+==============================
+==================== IMDB-BINARY ct gw normalize
+dataset: IMDB-BINARY topo_metric: ct dist_func: gw
+best params {'C': 2682.695795279722, 'gamma': 380.4145380190592}
+test mean 0.5039999999999999
+test std 0.05043808085167396
+==============================
+==================== IMDB-BINARY ct gw_lb normalize
+dataset: IMDB-BINARY topo_metric: ct dist_func: gw_lb
+best params {'C': 1.0, 'gamma': 380.4145380190592}
+test mean 0.501
+test std 0.0020000000000000018
+==============================
+==================== IMDB-BINARY ct gwtil_lb normalize
+dataset: IMDB-BINARY topo_metric: ct dist_func: gwtil_lb
+best params {'C': 193.06977288832496, 'gamma': 7.2457893141112555}
+test mean 0.525
+test std 0.03376388603226826
+==============================
+==================== IMDB-BINARY ct gwtil_ub normalize
+dataset: IMDB-BINARY topo_metric: ct dist_func: gwtil_ub
+best params {'C': 10000.0, 'gamma': 7.2457893141112555}
+test mean 0.518
+test std 0.01536229149573723
+==============================
+==================== IMDB-BINARY ct gwtil_lb_q1 normalize
+dataset: IMDB-BINARY topo_metric: ct dist_func: gwtil_lb_q1
+best params {'C': 1.0, 'gamma': 2.6918003852647128}
+test mean 0.5029999999999999
+test std 0.0040000000000000036
+==============================
+==================== IMDB-BINARY cttil gw normalize
+dataset: IMDB-BINARY topo_metric: cttil dist_func: gw
+best params {'C': 193.06977288832496, 'gamma': 141.32345775024794}
+test mean 0.5370000000000001
+test std 0.013266499161421611
+==============================
+==================== IMDB-BINARY cttil gw_lb normalize
+dataset: IMDB-BINARY topo_metric: cttil dist_func: gw_lb
+best params {'C': 1.0, 'gamma': 380.4145380190592}
+test mean 0.501
+test std 0.0020000000000000018
+==============================
+==================== IMDB-BINARY cttil gwtil_lb normalize
+dataset: IMDB-BINARY topo_metric: cttil dist_func: gwtil_lb
+best params {'C': 193.06977288832496, 'gamma': 7.2457893141112555}
+test mean 0.525
+test std 0.03376388603226826
+==============================
+==================== IMDB-BINARY cttil gwtil_ub normalize
+dataset: IMDB-BINARY topo_metric: cttil dist_func: gwtil_ub
+best params {'C': 10000.0, 'gamma': 7.2457893141112555}
+test mean 0.518
+test std 0.01536229149573723
+==============================
+==================== IMDB-BINARY cttil gwtil_lb_q1 normalize
+dataset: IMDB-BINARY topo_metric: cttil dist_func: gwtil_lb_q1
+best params {'C': 3.727593720314938, 'gamma': 141.32345775024794}
+test mean 0.508
+test std 0.009273618495495711
+==============================
+==================== IMDB-MULTI sp gw normalize
+dataset: IMDB-MULTI topo_metric: sp dist_func: gw
+best params {'C': 51.79474679231202, 'gamma': 19.504218467271617}
+test mean 0.45999999999999996
+test std 0.024037008503093243
+==============================
+==================== IMDB-MULTI sp gw_lb normalize
+dataset: IMDB-MULTI topo_metric: sp dist_func: gw_lb
+best params {'C': 3.727593720314938, 'gamma': 1024.0}
+test mean 0.3446666666666667
+test std 0.035502738548518264
+==============================
+==================== IMDB-MULTI sp gwtil_lb normalize
+dataset: IMDB-MULTI topo_metric: sp dist_func: gwtil_lb
+best params {'C': 2682.695795279722, 'gamma': 52.501462784488865}
+test mean 0.35933333333333334
+test std 0.03115552385479447
+==============================
+==================== IMDB-MULTI sp gwtil_ub normalize
+dataset: IMDB-MULTI topo_metric: sp dist_func: gwtil_ub
+best params {'C': 13.89495494373136, 'gamma': 141.32345775024794}
+test mean 0.37466666666666665
+test std 0.038907297230439654
+==============================
+==================== IMDB-MULTI sp gwtil_lb_q1 normalize
+dataset: IMDB-MULTI topo_metric: sp dist_func: gwtil_lb_q1
+best params {'C': 719.6856730011514, 'gamma': 380.4145380190592}
+test mean 0.37866666666666665
+test std 0.0215612821717283
+==============================
+==================== IMDB-MULTI ct gw normalize
+dataset: IMDB-MULTI topo_metric: ct dist_func: gw
+best params {'C': 13.89495494373136, 'gamma': 52.501462784488865}
+test mean 0.43199999999999994
+test std 0.046932575751461446
+==============================
+==================== IMDB-MULTI ct gw_lb normalize
+dataset: IMDB-MULTI topo_metric: ct dist_func: gw_lb
+best params {'C': 3.727593720314938, 'gamma': 52.501462784488865}
+test mean 0.35333333333333333
+test std 0.026415483674878594
+==============================
+==================== IMDB-MULTI ct gwtil_lb normalize
+dataset: IMDB-MULTI topo_metric: ct dist_func: gwtil_lb
+best params {'C': 13.89495494373136, 'gamma': 52.501462784488865}
+test mean 0.35333333333333333
+test std 0.016329931618554522
+==============================
+==================== IMDB-MULTI ct gwtil_ub normalize
+dataset: IMDB-MULTI topo_metric: ct dist_func: gwtil_ub
+best params {'C': 13.89495494373136, 'gamma': 7.2457893141112555}
+test mean 0.36133333333333334
+test std 0.017713773674115217
+==============================
+==================== IMDB-MULTI ct gwtil_lb_q1 normalize
+dataset: IMDB-MULTI topo_metric: ct dist_func: gwtil_lb_q1
+best params {'C': 51.79474679231202, 'gamma': 7.2457893141112555}
+test mean 0.3473333333333333
+test std 0.024166091947189154
+==============================
+==================== IMDB-MULTI cttil gw normalize
+dataset: IMDB-MULTI topo_metric: cttil dist_func: gw
+best params {'C': 51.79474679231202, 'gamma': 52.501462784488865}
+test mean 0.4086666666666667
+test std 0.04445222154178575
+==============================
+==================== IMDB-MULTI cttil gw_lb normalize
+dataset: IMDB-MULTI topo_metric: cttil dist_func: gw_lb
+best params {'C': 3.727593720314938, 'gamma': 52.501462784488865}
+test mean 0.35333333333333333
+test std 0.026415483674878594
+==============================
+==================== IMDB-MULTI cttil gwtil_lb normalize
+dataset: IMDB-MULTI topo_metric: cttil dist_func: gwtil_lb
+best params {'C': 13.89495494373136, 'gamma': 52.501462784488865}
+test mean 0.35333333333333333
+test std 0.016329931618554522
+==============================
+==================== IMDB-MULTI cttil gwtil_ub normalize
+dataset: IMDB-MULTI topo_metric: cttil dist_func: gwtil_ub
+best params {'C': 193.06977288832496, 'gamma': 7.2457893141112555}
+test mean 0.3586666666666667
+test std 0.010873004286866722
+==============================
+==================== IMDB-MULTI cttil gwtil_lb_q1 normalize
+dataset: IMDB-MULTI topo_metric: cttil dist_func: gwtil_lb_q1
+best params {'C': 51.79474679231202, 'gamma': 52.501462784488865}
+test mean 0.3646666666666667
+test std 0.02729265265394496
+==============================
+==================== BZR sp gw normalize
+dataset: BZR topo_metric: sp dist_func: gw
+==================== BZR sp gw_lb normalize
+dataset: BZR topo_metric: sp dist_func: gw_lb
+==================== BZR sp gwtil_lb normalize
+dataset: BZR topo_metric: sp dist_func: gwtil_lb
+==================== BZR sp gwtil_ub normalize
+dataset: BZR topo_metric: sp dist_func: gwtil_ub
+==================== BZR sp gwtil_lb_q1 normalize
+dataset: BZR topo_metric: sp dist_func: gwtil_lb_q1
+==================== BZR ct gw normalize
+dataset: BZR topo_metric: ct dist_func: gw
+==================== BZR ct gw_lb normalize
+dataset: BZR topo_metric: ct dist_func: gw_lb
+==================== BZR ct gwtil_lb normalize
+dataset: BZR topo_metric: ct dist_func: gwtil_lb
+==================== BZR ct gwtil_ub normalize
+dataset: BZR topo_metric: ct dist_func: gwtil_ub
+==================== BZR ct gwtil_lb_q1 normalize
+dataset: BZR topo_metric: ct dist_func: gwtil_lb_q1
+==================== BZR cttil gw normalize
+dataset: BZR topo_metric: cttil dist_func: gw
+==================== BZR cttil gw_lb normalize
+dataset: BZR topo_metric: cttil dist_func: gw_lb
+==================== BZR cttil gwtil_lb normalize
+dataset: BZR topo_metric: cttil dist_func: gwtil_lb
+==================== BZR cttil gwtil_ub normalize
+dataset: BZR topo_metric: cttil dist_func: gwtil_ub
+==================== BZR cttil gwtil_lb_q1 normalize
+dataset: BZR topo_metric: cttil dist_func: gwtil_lb_q1
+==================== COX2 sp gw normalize
+dataset: COX2 topo_metric: sp dist_func: gw
+==================== COX2 sp gw_lb normalize
+dataset: COX2 topo_metric: sp dist_func: gw_lb
+==================== COX2 sp gwtil_lb normalize
+dataset: COX2 topo_metric: sp dist_func: gwtil_lb
+==================== COX2 sp gwtil_ub normalize
+dataset: COX2 topo_metric: sp dist_func: gwtil_ub
+==================== COX2 sp gwtil_lb_q1 normalize
+dataset: COX2 topo_metric: sp dist_func: gwtil_lb_q1
+==================== COX2 ct gw normalize
+dataset: COX2 topo_metric: ct dist_func: gw
+==================== COX2 ct gw_lb normalize
+dataset: COX2 topo_metric: ct dist_func: gw_lb
+==================== COX2 ct gwtil_lb normalize
+dataset: COX2 topo_metric: ct dist_func: gwtil_lb
+==================== COX2 ct gwtil_ub normalize
+dataset: COX2 topo_metric: ct dist_func: gwtil_ub
+==================== COX2 ct gwtil_lb_q1 normalize
+dataset: COX2 topo_metric: ct dist_func: gwtil_lb_q1
+==================== COX2 cttil gw normalize
+dataset: COX2 topo_metric: cttil dist_func: gw
+==================== COX2 cttil gw_lb normalize
+dataset: COX2 topo_metric: cttil dist_func: gw_lb
+==================== COX2 cttil gwtil_lb normalize
+dataset: COX2 topo_metric: cttil dist_func: gwtil_lb
+==================== COX2 cttil gwtil_ub normalize
+dataset: COX2 topo_metric: cttil dist_func: gwtil_ub
+==================== COX2 cttil gwtil_lb_q1 normalize
+dataset: COX2 topo_metric: cttil dist_func: gwtil_lb_q1
+==================== MUTAG sp gw normalize
+dataset: MUTAG topo_metric: sp dist_func: gw
+==================== MUTAG sp gw_lb normalize
+dataset: MUTAG topo_metric: sp dist_func: gw_lb
+==================== MUTAG sp gwtil_lb normalize
+dataset: MUTAG topo_metric: sp dist_func: gwtil_lb
+==================== MUTAG sp gwtil_ub normalize
+dataset: MUTAG topo_metric: sp dist_func: gwtil_ub
+==================== MUTAG sp gwtil_lb_q1 normalize
+dataset: MUTAG topo_metric: sp dist_func: gwtil_lb_q1
+==================== MUTAG ct gw normalize
+dataset: MUTAG topo_metric: ct dist_func: gw
+==================== MUTAG ct gw_lb normalize
+dataset: MUTAG topo_metric: ct dist_func: gw_lb
+==================== MUTAG ct gwtil_lb normalize
+dataset: MUTAG topo_metric: ct dist_func: gwtil_lb
+==================== MUTAG ct gwtil_ub normalize
+dataset: MUTAG topo_metric: ct dist_func: gwtil_ub
+==================== MUTAG ct gwtil_lb_q1 normalize
+dataset: MUTAG topo_metric: ct dist_func: gwtil_lb_q1
+==================== MUTAG cttil gw normalize
+dataset: MUTAG topo_metric: cttil dist_func: gw
+==================== MUTAG cttil gw_lb normalize
+dataset: MUTAG topo_metric: cttil dist_func: gw_lb
+==================== MUTAG cttil gwtil_lb normalize
+dataset: MUTAG topo_metric: cttil dist_func: gwtil_lb
+==================== MUTAG cttil gwtil_ub normalize
+dataset: MUTAG topo_metric: cttil dist_func: gwtil_ub
+==================== MUTAG cttil gwtil_lb_q1 normalize
+dataset: MUTAG topo_metric: cttil dist_func: gwtil_lb_q1
+==================== PTC_MR sp gw normalize
+dataset: PTC_MR topo_metric: sp dist_func: gw
+==================== PTC_MR sp gw_lb normalize
+dataset: PTC_MR topo_metric: sp dist_func: gw_lb
+==================== PTC_MR sp gwtil_lb normalize
+dataset: PTC_MR topo_metric: sp dist_func: gwtil_lb
+==================== PTC_MR sp gwtil_ub normalize
+dataset: PTC_MR topo_metric: sp dist_func: gwtil_ub
+==================== PTC_MR sp gwtil_lb_q1 normalize
+dataset: PTC_MR topo_metric: sp dist_func: gwtil_lb_q1
+==================== PTC_MR ct gw normalize
+dataset: PTC_MR topo_metric: ct dist_func: gw
+==================== PTC_MR ct gw_lb normalize
+dataset: PTC_MR topo_metric: ct dist_func: gw_lb
+==================== PTC_MR ct gwtil_lb normalize
+dataset: PTC_MR topo_metric: ct dist_func: gwtil_lb
+==================== PTC_MR ct gwtil_ub normalize
+dataset: PTC_MR topo_metric: ct dist_func: gwtil_ub
+==================== PTC_MR ct gwtil_lb_q1 normalize
+dataset: PTC_MR topo_metric: ct dist_func: gwtil_lb_q1
+==================== PTC_MR cttil gw normalize
+dataset: PTC_MR topo_metric: cttil dist_func: gw
+==================== PTC_MR cttil gw_lb normalize
+dataset: PTC_MR topo_metric: cttil dist_func: gw_lb
+==================== PTC_MR cttil gwtil_lb normalize
+dataset: PTC_MR topo_metric: cttil dist_func: gwtil_lb
+==================== PTC_MR cttil gwtil_ub normalize
+dataset: PTC_MR topo_metric: cttil dist_func: gwtil_ub
+==================== PTC_MR cttil gwtil_lb_q1 normalize
+dataset: PTC_MR topo_metric: cttil dist_func: gwtil_lb_q1
+==================== IMDB-BINARY sp gw normalize
+dataset: IMDB-BINARY topo_metric: sp dist_func: gw
+==================== IMDB-BINARY sp gw_lb normalize
+dataset: IMDB-BINARY topo_metric: sp dist_func: gw_lb
+==================== IMDB-BINARY sp gwtil_lb normalize
+dataset: IMDB-BINARY topo_metric: sp dist_func: gwtil_lb
+==================== IMDB-BINARY sp gwtil_ub normalize
+dataset: IMDB-BINARY topo_metric: sp dist_func: gwtil_ub
+==================== IMDB-BINARY sp gwtil_lb_q1 normalize
+dataset: IMDB-BINARY topo_metric: sp dist_func: gwtil_lb_q1
+==================== IMDB-BINARY ct gw normalize
+dataset: IMDB-BINARY topo_metric: ct dist_func: gw
+==================== IMDB-BINARY ct gw_lb normalize
+dataset: IMDB-BINARY topo_metric: ct dist_func: gw_lb
+==================== IMDB-BINARY ct gwtil_lb normalize
+dataset: IMDB-BINARY topo_metric: ct dist_func: gwtil_lb
+==================== IMDB-BINARY ct gwtil_ub normalize
+dataset: IMDB-BINARY topo_metric: ct dist_func: gwtil_ub
+==================== IMDB-BINARY ct gwtil_lb_q1 normalize
+dataset: IMDB-BINARY topo_metric: ct dist_func: gwtil_lb_q1
+==================== IMDB-BINARY cttil gw normalize
+dataset: IMDB-BINARY topo_metric: cttil dist_func: gw
+==================== IMDB-BINARY cttil gw_lb normalize
+dataset: IMDB-BINARY topo_metric: cttil dist_func: gw_lb
+==================== IMDB-BINARY cttil gwtil_lb normalize
+dataset: IMDB-BINARY topo_metric: cttil dist_func: gwtil_lb
+==================== IMDB-BINARY cttil gwtil_ub normalize
+dataset: IMDB-BINARY topo_metric: cttil dist_func: gwtil_ub
+==================== IMDB-BINARY cttil gwtil_lb_q1 normalize
+dataset: IMDB-BINARY topo_metric: cttil dist_func: gwtil_lb_q1
+==================== IMDB-MULTI sp gw normalize
+dataset: IMDB-MULTI topo_metric: sp dist_func: gw
+==================== IMDB-MULTI sp gw_lb normalize
+dataset: IMDB-MULTI topo_metric: sp dist_func: gw_lb
+==================== IMDB-MULTI sp gwtil_lb normalize
+dataset: IMDB-MULTI topo_metric: sp dist_func: gwtil_lb
+==================== IMDB-MULTI sp gwtil_ub normalize
+dataset: IMDB-MULTI topo_metric: sp dist_func: gwtil_ub
+==================== IMDB-MULTI sp gwtil_lb_q1 normalize
+dataset: IMDB-MULTI topo_metric: sp dist_func: gwtil_lb_q1
+==================== IMDB-MULTI ct gw normalize
+dataset: IMDB-MULTI topo_metric: ct dist_func: gw
+==================== IMDB-MULTI ct gw_lb normalize
+dataset: IMDB-MULTI topo_metric: ct dist_func: gw_lb
+==================== IMDB-MULTI ct gwtil_lb normalize
+dataset: IMDB-MULTI topo_metric: ct dist_func: gwtil_lb
+==================== IMDB-MULTI ct gwtil_ub normalize
+dataset: IMDB-MULTI topo_metric: ct dist_func: gwtil_ub
+==================== IMDB-MULTI ct gwtil_lb_q1 normalize
+dataset: IMDB-MULTI topo_metric: ct dist_func: gwtil_lb_q1
+==================== IMDB-MULTI cttil gw normalize
+dataset: IMDB-MULTI topo_metric: cttil dist_func: gw
+==================== IMDB-MULTI cttil gw_lb normalize
+dataset: IMDB-MULTI topo_metric: cttil dist_func: gw_lb
+==================== IMDB-MULTI cttil gwtil_lb normalize
+dataset: IMDB-MULTI topo_metric: cttil dist_func: gwtil_lb
+==================== IMDB-MULTI cttil gwtil_ub normalize
+dataset: IMDB-MULTI topo_metric: cttil dist_func: gwtil_ub
+==================== IMDB-MULTI cttil gwtil_lb_q1 normalize
+dataset: IMDB-MULTI topo_metric: cttil dist_func: gwtil_lb_q1

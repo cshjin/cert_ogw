@@ -1,0 +1,651 @@
+dataset: BZR topo_metric: sp dist_func: gw
+
+dataset: BZR topo_metric: sp dist_func: gwtil_lb
+
+dataset: BZR topo_metric: sp dist_func: gwtil_ub
+
+dataset: BZR topo_metric: ct dist_func: gw
+
+dataset: BZR topo_metric: ct dist_func: gwtil_lb
+
+dataset: BZR topo_metric: ct dist_func: gwtil_ub
+
+dataset: BZR topo_metric: cttil dist_func: gw
+
+dataset: BZR topo_metric: cttil dist_func: gwtil_lb
+
+dataset: BZR topo_metric: cttil dist_func: gwtil_ub
+
+dataset: COX2 topo_metric: sp dist_func: gw
+
+dataset: COX2 topo_metric: sp dist_func: gwtil_lb
+
+dataset: COX2 topo_metric: sp dist_func: gwtil_ub
+
+dataset: COX2 topo_metric: ct dist_func: gw
+
+dataset: COX2 topo_metric: ct dist_func: gwtil_lb
+
+dataset: COX2 topo_metric: ct dist_func: gwtil_ub
+
+dataset: COX2 topo_metric: cttil dist_func: gw
+
+dataset: COX2 topo_metric: cttil dist_func: gwtil_lb
+
+dataset: COX2 topo_metric: cttil dist_func: gwtil_ub
+
+dataset: MUTAG topo_metric: sp dist_func: gw
+
+dataset: MUTAG topo_metric: sp dist_func: gwtil_lb
+
+dataset: MUTAG topo_metric: sp dist_func: gwtil_ub
+
+dataset: MUTAG topo_metric: ct dist_func: gw
+
+dataset: MUTAG topo_metric: ct dist_func: gwtil_lb
+
+dataset: MUTAG topo_metric: ct dist_func: gwtil_ub
+
+dataset: MUTAG topo_metric: cttil dist_func: gw
+
+dataset: MUTAG topo_metric: cttil dist_func: gwtil_lb
+
+dataset: MUTAG topo_metric: cttil dist_func: gwtil_ub
+
+dataset: PTC_MR topo_metric: sp dist_func: gw
+
+dataset: PTC_MR topo_metric: sp dist_func: gwtil_lb
+
+dataset: PTC_MR topo_metric: sp dist_func: gwtil_ub
+
+dataset: PTC_MR topo_metric: ct dist_func: gw
+
+dataset: PTC_MR topo_metric: ct dist_func: gwtil_lb
+
+dataset: PTC_MR topo_metric: ct dist_func: gwtil_ub
+
+dataset: PTC_MR topo_metric: cttil dist_func: gw
+
+dataset: PTC_MR topo_metric: cttil dist_func: gwtil_lb
+
+dataset: PTC_MR topo_metric: cttil dist_func: gwtil_ub
+
+dataset: IMDB - BINARY topo_metric: sp dist_func: gw
+
+dataset: IMDB - BINARY topo_metric: sp dist_func: gwtil_lb
+
+dataset: IMDB - BINARY topo_metric: sp dist_func: gwtil_ub
+
+dataset: IMDB - BINARY topo_metric: ct dist_func: gw
+
+dataset: IMDB - BINARY topo_metric: ct dist_func: gwtil_lb
+
+dataset: IMDB - BINARY topo_metric: ct dist_func: gwtil_ub
+
+dataset: IMDB - BINARY topo_metric: cttil dist_func: gw
+
+dataset: IMDB - BINARY topo_metric: cttil dist_func: gwtil_lb
+
+dataset: IMDB - BINARY topo_metric: cttil dist_func: gwtil_ub
+
+dataset: IMDB - MULTI topo_metric: sp dist_func: gw
+
+dataset: IMDB - MULTI topo_metric: sp dist_func: gwtil_lb
+
+dataset: IMDB - MULTI topo_metric: sp dist_func: gwtil_ub
+
+dataset: IMDB - MULTI topo_metric: ct dist_func: gw
+
+dataset: IMDB - MULTI topo_metric: ct dist_func: gwtil_lb
+
+dataset: IMDB - MULTI topo_metric: ct dist_func: gwtil_ub
+
+dataset: IMDB - MULTI topo_metric: cttil dist_func: gw
+
+dataset: IMDB - MULTI topo_metric: cttil dist_func: gwtil_lb
+
+dataset: IMDB - MULTI topo_metric: cttil dist_func: gwtil_ub
+
+
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+
+best params {'C': 51.79474679231202, 'gamma': 0.0009765625}
+
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+
+best params {'C': 51.79474679231202, 'gamma': 0.0009765625}
+
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+
+best params {'C': 3.727593720314938, 'gamma': 52.501462784488865}
+
+best params {'C': 3.727593720314938, 'gamma': 0.0009765625}
+
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+
+best params {'C': 3.727593720314938, 'gamma': 2.6918003852647128}
+
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+
+best params {'C': 3.727593720314938, 'gamma': 2.6918003852647128}
+
+best params {'C': 3.727593720314938, 'gamma': 0.002628711313735071}
+
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+
+best params {'C': 1.0, 'gamma': 0.019047088346944928}
+
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+
+best params {'C': 1.0, 'gamma': 0.05127095975047737}
+
+best params {'C': 0.2682695795279725, 'gamma': 52.501462784488865}
+
+best params {'C': 0.0001, 'gamma': 0.0009765625}
+
+best params {'C': 1.0, 'gamma': 0.05127095975047737}
+
+best params {'C': 0.2682695795279725, 'gamma': 52.501462784488865}
+
+best params {'C': 10000.0, 'gamma': 141.32345775024794}
+
+best params {'C': 193.06977288832496, 'gamma': 380.4145380190592}
+
+best params {'C': 51.79474679231202, 'gamma': 141.32345775024794}
+
+best params {'C': 2682.695795279722, 'gamma': 380.4145380190592}
+
+best params {'C': 193.06977288832496, 'gamma': 7.2457893141112555}
+
+best params {'C': 10000.0, 'gamma': 7.2457893141112555}
+
+best params {'C': 193.06977288832496, 'gamma': 141.32345775024794}
+
+best params {'C': 193.06977288832496, 'gamma': 7.2457893141112555}
+
+best params {'C': 10000.0, 'gamma': 7.2457893141112555}
+
+best params {'C': 51.79474679231202, 'gamma': 19.504218467271617}
+
+best params {'C': 2682.695795279722, 'gamma': 52.501462784488865}
+
+best params {'C': 13.89495494373136, 'gamma': 141.32345775024794}
+
+best params {'C': 13.89495494373136, 'gamma': 52.501462784488865}
+
+best params {'C': 13.89495494373136, 'gamma': 52.501462784488865}
+
+best params {'C': 13.89495494373136, 'gamma': 7.2457893141112555}
+
+best params {'C': 51.79474679231202, 'gamma': 52.501462784488865}
+
+best params {'C': 13.89495494373136, 'gamma': 52.501462784488865}
+
+best params {'C': 193.06977288832496, 'gamma': 7.2457893141112555}
+
+
+test mean 0.7876543209876543
+
+test mean 0.7876543209876543
+
+test mean 0.7876543209876543
+
+test mean 0.7876543209876543
+
+test mean 0.7925925925925925
+
+test mean 0.7876543209876543
+
+test mean 0.7876543209876543
+
+test mean 0.7925925925925925
+
+test mean 0.7876543209876543
+
+test mean 0.7816060398078243
+
+test mean 0.7816060398078243
+
+test mean 0.7859071150766415
+
+test mean 0.7880576527110501
+
+test mean 0.7816060398078243
+
+test mean 0.7837565774422328
+
+test mean 0.7816060398078243
+
+test mean 0.7816060398078243
+
+test mean 0.7837565774422328
+
+test mean 0.6695590327169274
+
+test mean 0.6650071123755333
+
+test mean 0.6650071123755333
+
+test mean 0.6650071123755333
+
+test mean 0.6650071123755333
+
+test mean 0.6650071123755333
+
+test mean 0.6650071123755333
+
+test mean 0.6650071123755333
+
+test mean 0.6650071123755333
+
+test mean 0.5667519181585678
+
+test mean 0.5581415174765558
+
+test mean 0.5581415174765558
+
+test mean 0.5581415174765558
+
+test mean 0.5784313725490196
+
+test mean 0.5639386189258312
+
+test mean 0.5581415174765558
+
+test mean 0.5784313725490196
+
+test mean 0.5639386189258312
+
+test mean 0.5309999999999999
+
+test mean 0.509
+
+test mean 0.517
+
+test mean 0.5039999999999999
+
+test mean 0.525
+
+test mean 0.518
+
+test mean 0.5370000000000001
+
+test mean 0.525
+
+test mean 0.518
+
+test mean 0.45999999999999996
+
+test mean 0.35933333333333334
+
+test mean 0.37466666666666665
+
+test mean 0.43199999999999994
+
+test mean 0.35333333333333333
+
+test mean 0.36133333333333334
+
+test mean 0.4086666666666667
+
+test mean 0.35333333333333333
+
+test mean 0.3586666666666667
+
+
+test std 0.00493827160493825
+
+test std 0.00493827160493825
+
+test std 0.00493827160493825
+
+test std 0.00493827160493825
+
+test std 0.012096245643373705
+
+test std 0.00493827160493825
+
+test std 0.00493827160493825
+
+test std 0.012096245643373705
+
+test std 0.00493827160493825
+
+test std 0.004090888840612498
+
+test std 0.004090888840612498
+
+test std 0.010930015583635044
+
+test std 0.015044198903189481
+
+test std 0.004090888840612498
+
+test std 0.007042801829836294
+
+test std 0.004090888840612498
+
+test std 0.004090888840612498
+
+test std 0.007042801829836294
+
+test std 0.08231646024755851
+
+test std 0.008710845457977132
+
+test std 0.008710845457977132
+
+test std 0.008710845457977132
+
+test std 0.008710845457977132
+
+test std 0.008710845457977132
+
+test std 0.008710845457977132
+
+test std 0.008710845457977132
+
+test std 0.008710845457977132
+
+test std 0.044456507383412815
+
+test std 0.006490320992557279
+
+test std 0.006490320992557279
+
+test std 0.006490320992557279
+
+test std 0.044451929665500926
+
+test std 0.016080700366686667
+
+test std 0.006490320992557279
+
+test std 0.044451929665500926
+
+test std 0.016080700366686667
+
+test std 0.05003998401278723
+
+test std 0.027820855486487113
+
+test std 0.03443835071544512
+
+test std 0.05043808085167396
+
+test std 0.03376388603226826
+
+test std 0.01536229149573723
+
+test std 0.013266499161421611
+
+test std 0.03376388603226826
+
+test std 0.01536229149573723
+
+test std 0.024037008503093243
+
+test std 0.03115552385479447
+
+test std 0.038907297230439654
+
+test std 0.046932575751461446
+
+test std 0.016329931618554522
+
+test std 0.017713773674115217
+
+test std 0.04445222154178575
+
+test std 0.016329931618554522
+
+test std 0.010873004286866722
+
+
+== == == == == == == == == == BZR sp gw
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == BZR sp gwtil_lb
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == BZR sp gwtil_ub
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == BZR ct gw
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == BZR ct gwtil_lb
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == BZR ct gwtil_ub
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == BZR cttil gw
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == BZR cttil gwtil_lb
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == BZR cttil gwtil_ub
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == COX2 sp gw
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == COX2 sp gwtil_lb
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == COX2 sp gwtil_ub
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == COX2 ct gw
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == COX2 ct gwtil_lb
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == COX2 ct gwtil_ub
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == COX2 cttil gw
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == COX2 cttil gwtil_lb
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == COX2 cttil gwtil_ub
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == MUTAG sp gw
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == MUTAG sp gwtil_lb
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == MUTAG sp gwtil_ub
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == MUTAG ct gw
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == MUTAG ct gwtil_lb
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == MUTAG ct gwtil_ub
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == MUTAG cttil gw
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == MUTAG cttil gwtil_lb
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == MUTAG cttil gwtil_ub
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == PTC_MR sp gw
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == PTC_MR sp gwtil_lb
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == PTC_MR sp gwtil_ub
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == PTC_MR ct gw
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == PTC_MR ct gwtil_lb
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == PTC_MR ct gwtil_ub
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == PTC_MR cttil gw
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == PTC_MR cttil gwtil_lb
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == PTC_MR cttil gwtil_ub
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == IMDB - BINARY sp gw
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == IMDB - BINARY sp gwtil_lb
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == IMDB - BINARY sp gwtil_ub
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == IMDB - BINARY ct gw
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == IMDB - BINARY ct gwtil_lb
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == IMDB - BINARY ct gwtil_ub
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == IMDB - BINARY cttil gw
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == IMDB - BINARY cttil gwtil_lb
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == IMDB - BINARY cttil gwtil_ub
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == IMDB - MULTI sp gw
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == IMDB - MULTI sp gwtil_lb
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == IMDB - MULTI sp gwtil_ub
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == IMDB - MULTI ct gw
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == IMDB - MULTI ct gwtil_lb
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == IMDB - MULTI ct gwtil_ub
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == IMDB - MULTI cttil gw
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == IMDB - MULTI cttil gwtil_lb
+
+== == == == == == == == == == == == == == ==
+
+== == == == == == == == == == IMDB - MULTI cttil gwtil_ub
+
+== == == == == == == == == == == == == == ==

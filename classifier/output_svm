@@ -1,0 +1,154 @@
+dataset: BZR topo_metric: sp dist_func: gw
+D_min -0.0000 D_max 37.48382479087784
+best params {'C': 1e-08, 'gamma': 1e-08}
+test mean 0.7877439024390245
+test std 0.010131680601676919
+==============================
+dataset: BZR topo_metric: sp dist_func: gw_lb
+D_min 0.0000 D_max 31.32633265229513
+best params {'C': 1e-08, 'gamma': 1e-08}
+test mean 0.7877439024390245
+test std 0.010131680601676919
+==============================
+dataset: COX2 topo_metric: sp dist_func: gw
+D_min -0.0000 D_max 13.793168048469386
+best params {'C': 1e-08, 'gamma': 1e-08}
+test mean 0.7815911193339501
+test std 0.008069341548397002
+==============================
+dataset: COX2 topo_metric: sp dist_func: gw_lb
+D_min 0.0000 D_max 8.735957519538042
+best params {'C': 0.07196856730011514, 'gamma': 3.7275937203149377e-08}
+test mean 0.7879740980573542
+test std 0.02244623236019827
+==============================
+dataset: MUTAG topo_metric: sp dist_func: gw
+D_min -0.0000 D_max 21.533534346732488
+best params {'C': 1e-08, 'gamma': 1e-08}
+test mean 0.6649122807017545
+test std 0.02280701754385967
+==============================
+dataset: MUTAG topo_metric: sp dist_func: gw_lb
+D_min 0.0000 D_max 19.290051515630243
+best params {'C': 1e-08, 'gamma': 1e-08}
+test mean 0.6649122807017545
+test std 0.02280701754385967
+==============================
+dataset: PTC_MR topo_metric: sp dist_func: gw
+D_min -0.0000 D_max 156.28571428571428
+best params {'C': 0.005179474679231202, 'gamma': 1.389495494373136e-07}
+test mean 0.6081512605042017
+test std 0.08087077293509064
+==============================
+dataset: PTC_MR topo_metric: sp dist_func: gw_lb
+D_min 0.0000 D_max 154.2794214044593
+best params {'C': 0.005179474679231202, 'gamma': 3.7275937203149377e-08}
+test mean 0.6015966386554623
+test std 0.05104161835800464
+==============================
+dataset: IMDB-BINARY topo_metric: sp dist_func: gw
+D_min -0.0000 D_max 1.022762345679018
+best params {'C': 1.0, 'gamma': 1.0}
+test mean 0.501
+test std 0.04011234224026318
+==============================
+dataset: IMDB-BINARY topo_metric: sp dist_func: gw_lb
+D_min 0.0000 D_max 0.9212406995426248
+best params {'C': 1.0, 'gamma': 1.0}
+test mean 0.487
+test std 0.039
+==============================
+dataset: IMDB-MULTI topo_metric: sp dist_func: gw
+D_min -0.0000 D_max 1.1281632653061222
+best params {'C': 1.0, 'gamma': 1.0}
+test mean 0.3253333333333333
+test std 0.02978441053825157
+==============================
+dataset: IMDB-MULTI topo_metric: sp dist_func: gw_lb
+D_min 0.0000 D_max 0.9194598745313042
+best params {'C': 1.0, 'gamma': 0.2682695795279722}
+test mean 0.3033333333333333
+test std 0.028323527714997326
+==============================
+
+
+NEW
+
+dataset: BZR topo_metric: sp dist_func: gwtil_ub
+dataset: COX2 topo_metric: sp dist_func: gwtil_ub
+dataset: MUTAG topo_metric: sp dist_func: gwtil_ub
+dataset: PTC_MR topo_metric: sp dist_func: gwtil_ub
+dataset: BZR topo_metric: sp dist_func: gwtil_ub
+
+dataset: BZR topo_metric: sp dist_func: gwtil_ub
+D_min 0.0000 D_max 32.051687956110186
+best params {'C': 1e-08, 'gamma': 1e-08}
+test mean 0.7877439024390245
+test std 0.010131680601676919
+==============================
+dataset: COX2 topo_metric: sp dist_func: gwtil_ub
+D_min 0.0000 D_max 9.133882493764531
+best params {'C': 0.07196856730011514, 'gamma': 1.0}
+test mean 0.7837187789084181
+test std 0.017746148690562243
+==============================
+dataset: MUTAG topo_metric: sp dist_func: gwtil_ub
+D_min 0.0000 D_max 20.16421060097474
+best params {'C': 1e-08, 'gamma': 1e-08}
+test mean 0.6649122807017545
+test std 0.02280701754385967
+==============================
+dataset: PTC_MR topo_metric: sp dist_func: gwtil_ub
+D_min 0.0000 D_max 155.15382117625714
+best params {'C': 0.005179474679231202, 'gamma': 3.7275937203149377e-08}
+test mean 0.5899159663865545
+test std 0.10154585130907555
+==============================
+dataset: IMDB-BINARY topo_metric: sp dist_func: gwtil_ub
+D_min -0.0000 D_max 0.9788883212163451
+best params {'C': 1.0, 'gamma': 1.0}
+test mean 0.5
+test std 0.0
+==============================
+dataset: IMDB-MULTI topo_metric: sp dist_func: gwtil_ub
+D_min -0.0000 D_max 1.036208933119131
+best params {'C': 0.2682695795279722, 'gamma': 1.0}
+test mean 0.312
+test std 0.03409789827345179
+==============================
+
+
+dataset: BZR topo_metric: sp dist_func: gwtil_o
+D_min -0.0000 D_max 31.69228873013091
+best params {'C': 1e-08, 'gamma': 1e-08}
+test mean 0.7877439024390245
+test std 0.010131680601676919
+==============================
+
+
+
+
+dataset: MUTAG topo_metric: sp dist_func: gwtil_o
+D_min -0.0000 D_max 20.16421060097474
+best params {'C': 0.2682695795279722, 'gamma': 0.2682695795279722}
+test mean 0.8279389454209066
+test std 0.029623542744529767
+==============================
+dataset: PTC_MR topo_metric: sp dist_func: gwtil_o
+D_min -0.0000 D_max 154.72888535599392
+best params {'C': 0.005179474679231202, 'gamma': 3.7275937203149377e-08}
+test mean 0.5932773109243696
+test std 0.06091828425127317
+==============================
+dataset: IMDB-BINARY topo_metric: sp dist_func: gwtil_o
+D_min -0.0000 D_max 0.9668044191674996
+best params {'C': 1e-08, 'gamma': 0.07196856730011514}
+test mean 0.42399999999999993
+test std 0.040298883359219766
+==============================
+dataset: IMDB-MULTI topo_metric: sp dist_func: gwtil_o
+D_min -0.0000 D_max 1.0161588114900009
+best params {'C': 1.0, 'gamma': 1.0}
+test mean 0.33333333333333337
+test std 5.551115123125783e-17
+==============================

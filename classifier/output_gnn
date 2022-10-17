@@ -1,0 +1,18 @@
+
+dataset,robust,test_acc
+MUTAG,1,0.6737
+BZR,1,0.7882
+COX2,1,0.7821
+PTC_MR,1,0.5607
+IMDB-BINARY,1,0.7260
+IMDB-MULTI,1,0.4800
+Testing accuracy 0.6737
+Testing accuracy 0.7882
+Testing accuracy 0.7821
+Testing accuracy 0.5607
+Testing accuracy 0.7260
+Testing accuracy 0.4800
+Testing accuracy 0.6737
+Testing accuracy 0.7882
+Testing accuracy 0.7821
+Testing accuracy 0.5607

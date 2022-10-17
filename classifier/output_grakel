@@ -1,0 +1,68 @@
+====================
+dataset BZR kernel sp
+mean / std: 0.7877 ± 0.0326
+====================
+dataset BZR kernel rw
+mean / std: 0.7877 ± 0.0049
+====================
+dataset BZR kernel gk
+mean / std: 0.7877 ± 0.0049
+====================
+dataset BZR kernel wl
+mean / std: 0.7852 ± 0.0060
+====================
+dataset COX2 kernel sp
+mean / std: 0.7816 ± 0.0041
+====================
+dataset COX2 kernel rw
+mean / std: 0.7816 ± 0.0041
+====================
+dataset COX2 kernel gk
+mean / std: 0.7816 ± 0.0041
+====================
+dataset COX2 kernel wl
+mean / std: 0.7816 ± 0.0041
+====================
+dataset MUTAG kernel sp
+mean / std: 0.7822 ± 0.0408
+====================
+dataset MUTAG kernel rw
+mean / std: 0.6650 ± 0.0087
+====================
+dataset MUTAG kernel gk
+mean / std: 0.6650 ± 0.0087
+====================
+dataset MUTAG kernel wl
+mean / std: 0.7878 ± 0.0481
+====================
+dataset PTC_MR kernel sp
+mean / std: 0.5725 ± 0.0303
+====================
+dataset PTC_MR kernel rw
+mean / std: nan ± nan
+====================
+dataset PTC_MR kernel gk
+mean / std: nan ± nan
+====================
+dataset PTC_MR kernel wl
+mean / std: 0.6133 ± 0.0279
+====================
+dataset IMDB-BINARY kernel sp
+====================
+dataset IMDB-BINARY kernel rw
+mean / std: nan ± nan
+====================
+dataset IMDB-BINARY kernel gk
+mean / std: 0.6010 ± 0.0244
+====================
+dataset IMDB-BINARY kernel wl
+====================
+dataset IMDB-MULTI kernel sp
+====================
+dataset IMDB-MULTI kernel rw
+mean / std: nan ± nan
+====================
+dataset IMDB-MULTI kernel gk
+mean / std: 0.3820 ± 0.0265
+====================
+dataset IMDB-MULTI kernel wl
